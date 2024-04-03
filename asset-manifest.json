@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/BurgerHub/static/css/main.59f1152a.css",
+    "main.js": "/BurgerHub/static/js/main.80a91d4d.js",
+    "static/media/s1.png": "/BurgerHub/static/media/s1.df7e0b5888c3561c2b70.png",
+    "static/media/about.png": "/BurgerHub/static/media/about.5cfaf8a99d5231051570.png",
+    "static/media/banner.png": "/BurgerHub/static/media/banner.192d127276189eb9c330.png",
+    "static/media/footer.png": "/BurgerHub/static/media/footer.53806b7daa8d1ecfff9d.png",
+    "static/media/s2.png": "/BurgerHub/static/media/s2.06f481bfe28e7c5dbb10.png",
+    "static/media/logo1.png": "/BurgerHub/static/media/logo1.853d8c487e363cae2008.png",
+    "index.html": "/BurgerHub/index.html",
+    "main.59f1152a.css.map": "/BurgerHub/static/css/main.59f1152a.css.map",
+    "main.80a91d4d.js.map": "/BurgerHub/static/js/main.80a91d4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59f1152a.css",
+    "static/js/main.80a91d4d.js"
+  ]
+}
